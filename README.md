@@ -1,6 +1,7 @@
 # Masinsko-ucenje
 Projekat iz Mašinskog učenja:
 Dat je dataset koji sadrži informacije o performansama učenika u jednoj srednjoj školi, uključujući podatke o njihovoj demografiji, navikama učenja, podrške roditelja i slično. Zadatak je da na osnovu datih podataka predvidite ocjenu (GPA) učenika. Pri tome, dvije kolone su relevantne za predikciju, GPA koja predstavlja tačnu numeričku ocjenu koja se nalazi u intervalu [0,4.0] i GradeClass koja predstavlja kategoričku kolonu koja klasifikuje performans studenta prema sljedećem pravilu: 
+
 • 0: 'A' (GPA >= 3.5)
 
 • 1: 'B' (3.0 <= GPA < 3.5) 
